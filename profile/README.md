@@ -6,7 +6,7 @@ You won't see here much - All of our repos are private.
 - Mateusz: Management & Coops `mateusz[at]gdzieautobus.pl`
 - Eryk: App & GTFS `eryk[at]gdzieautobus.pl`
 - Alan: Speed & Performance `alan[at]gdzieautobus.pl`
-- Filip: API & ML/AI `filip[at]gdzieautobus.pl`
+<!-- - Filip: API & ML/AI `filip[at]gdzieautobus.pl` bye bye :( -->
 
 ## Visit our website
 [moveitapp.pl](https://moveitapp.pl)
