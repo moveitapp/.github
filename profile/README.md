@@ -14,5 +14,5 @@ You won't see here much - All of our repos are private.
 [fb.me/moveitapp](https://fb.me/moveitapp)
 [instagram.com/moveit_app](instagram.com/moveit_app/)
 
-
+---
 [![moveit](https://github.azpekt.dev/moveit.svg)](https://gdzieautobus.pl)
